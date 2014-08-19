@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+#!/bin/bash
+
+# ${1:Description of script}
+# ${2:Updated date}
+# ${3:pravin.b.gaikwad@gmail.com}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>#!</tabTrigger>
+</snippet>
